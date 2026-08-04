@@ -39,7 +39,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">84</meta>
-		<dc:abstract>A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</dc:abstract>
+		<meta property="schema:abstract">A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</meta>
 		<dc:description>
 			&lt;p&gt;Caesar Rico is a small-time gangster in Prohibition-era Chicago, one of crime boss Sam Vettori’s lieutenants. He’s ordered to take a crew to rob a club during a New Year’s Eve party—but the holdup takes a turn for the worse when Rico shoots and kills a popular police captain.&lt;/p&gt;
 			&lt;p&gt;Using this distinctly unwanted outcome as leverage, Rico starts to climb to the top of Vettori’s criminal empire—but he quickly discovers that the summit can be very slippery.&lt;/p&gt;
